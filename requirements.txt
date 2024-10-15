@@ -1,5 +1,4 @@
 pymongo
 flask
-bson
 requests
 uvicorn
